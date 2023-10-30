@@ -1,0 +1,28 @@
+h1 {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+p {
+    color: aqua
+    ;
+}
+.paragrafo {
+    border: 1px solid cyan;
+    color: aquamarine;
+    margin-top: 1rem;
+
+}
+#titulo {
+    color: antiquewhite;
+    margin-bottom: 1rem;
+
+}
+input[type="password"]{
+    font-size: 3rem;
+}
+.login-form input{
+    font-size: 2rem;
+}
