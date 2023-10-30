@@ -6,9 +6,13 @@ h1 {
 
 }
 p {
-    color: aqua
-    ;
+    color: aqua;
 }
+
+main{
+    margin-top: 1rem;
+}
+
 .paragrafo {
     border: 1px solid cyan;
     color: aquamarine;
@@ -25,4 +29,15 @@ input[type="password"]{
 }
 .login-form input{
     font-size: 2rem;
+    color: blue;
+}
+.login-form > input{
+    color:black;
+    width: 10rem;
+}
+.cadastro-form input:nth-last-of-type(2){
+    color: palegoldenrod;
+    font-size: 1rem;
+    background: blue;
+    
 }
